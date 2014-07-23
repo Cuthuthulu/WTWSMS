@@ -1,0 +1,22 @@
+iranian = {
+	kurdish = {
+		primary = PER
+		dynasty_names = $kurdish$
+	}
+	sarmatian = {
+		primary = UKR
+		dynasty_names = $sarmatian$
+	}
+	khwarezmian = {
+		primary = PER
+		dynasty_names = $khwarezmian$
+	}
+	iazyges = {
+		primary = UKR
+		dynasty_names = $iazyges$
+	}
+	bactrian = {
+		primary = AFG
+		dynasty_names = $bactrian$
+	}
+}

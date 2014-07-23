@@ -1,0 +1,30 @@
+south_slavic = {
+	antae = {
+		primary = CRI
+		dynasty_names = $antae$
+	}
+	sklav = {
+		primary = BUL
+		dynasty_names = $sklav$
+	}
+	tracki = {
+		primary = BUL
+		dynasty_names = $tracki$
+	}
+	arberian = {
+		primary = ALB
+		dynasty_names = $arberian$
+	}
+	bosnjani = {
+		primary = BOS
+		dynasty_names = $bosnjani$
+	}
+	karantanci = {
+		primary = BUL
+		dynasty_names = $bosnjani$
+	}
+	alzzecio = {
+		primary = BUL
+		dynasty_names = $alzzecio$
+	}
+}

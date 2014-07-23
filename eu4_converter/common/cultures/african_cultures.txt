@@ -1,0 +1,14 @@
+african	= {
+	coptic = {
+		primary = EGY
+		dynasty_names = $coptic$
+	}
+	afar = {
+		primary = ETH
+		dynasty_names = $afar$
+	}
+	akan = {
+		primary = MAL
+		dynasty_names = $akan$
+	}
+}

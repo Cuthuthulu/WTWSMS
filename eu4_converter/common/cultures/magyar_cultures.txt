@@ -1,0 +1,22 @@
+magyar = {
+        old_magyar = {
+		primary = HUN
+		dynasty_names = $old_magyar$
+	}
+        tocharian = {
+		primary = CHG
+		dynasty_names = $tocharian$
+	}
+        sogdian = {
+		primary = CHG
+		dynasty_names = $soadian$
+	}
+        hunas = {
+		primary = DLH
+		dynasty_names = $hunas$
+	}
+        hepthalite = {
+		primary = AFG
+		dynasty_names = $hepthalite$
+	}
+}

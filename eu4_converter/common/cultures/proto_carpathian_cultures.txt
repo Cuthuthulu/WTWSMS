@@ -1,0 +1,18 @@
+proto_carpathian = {
+	macedonian = {
+		primary = GRE
+		dynasty_names = $macedonian$
+	}
+	dacian = {
+		primary = HUN
+		dynasty_names = $dacian$
+	}
+	illyrian = {
+		primary = GRE
+		dynasty_names = $illyrian$
+	}
+	veneti = {
+		primary = BRI
+		dynasty_names = $veneti$
+	}
+}

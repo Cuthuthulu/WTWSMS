@@ -1,0 +1,9 @@
+iberian	= {
+        suebian = {
+		primary = POR
+		dynasty_names = $suebian$
+	}
+        paleo_iberian = {
+		primary = SPA
+		dynasty_names = $paleo_iberian$
+	}

@@ -1,0 +1,14 @@
+west_slavic = {
+	geruly = {
+		primary = POM
+		dynasty_names = $geruly$
+	}
+	tyuringii = {
+		primary = POM
+		dynasty_names = $tyuringii$
+	}
+	nordvind = {
+		primary = POL
+		dynasty_names = $nordvind$
+	}
+}

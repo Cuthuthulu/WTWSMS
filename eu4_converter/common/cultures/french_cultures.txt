@@ -1,0 +1,26 @@
+french	= {
+	romano_frank = {
+		primary = ITA
+		dynasty_names = $romano_frank$
+	}
+	arpitanisch = {
+		primary = PRO
+		dynasty_names = $arpitanisch$
+	}
+	picard = {
+		primary = FRA
+		dynasty_names = $picard$
+	}
+	picard = {
+		primary = FRA
+		dynasty_names = $picard$
+	}
+	savoyard = {
+		primary = SAV
+		dynasty_names = $savoyard$
+	}
+	corsican = {
+		primary = COR
+		dynasty_names = $corsican$
+	}
+}

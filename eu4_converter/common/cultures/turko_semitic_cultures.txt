@@ -1,0 +1,34 @@
+turko_semitic = {
+	garamantian = {
+		primary = TRP
+		dynasty_names = $garamantian$
+	}
+	bedouin_dravidian = {
+		primary = VND
+		dynasty_names = $bedouin_dravidian$
+	}
+	azeri = {
+		primary = GEO
+		dynasty_names = $bedouin_dravidian$
+	}
+	tribal_arab = {
+		primary = HEJ
+		dynasty_names = $tribal_arab$
+	}
+	himyarite = {
+		primary = OMA
+		dynasty_names = $himyarite$
+	}
+	nabatean = {
+		primary = NAJ
+		dynasty_names = $nabatean$
+	}
+	aramean = {
+		primary = SYR
+		dynasty_names = $aramean$
+	}
+	samosatan = {
+		primary = HEJ
+		dynasty_names = $samosatan$
+	}
+}

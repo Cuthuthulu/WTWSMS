@@ -1,0 +1,87 @@
+germanic = {
+	german = {
+		primary = GER
+		dynasty_names = $german$
+	}
+	yiddish = {
+		primary = ISR
+		dynasty_names = $yiddish$
+	}
+        thuringian = {
+		primary = THU
+		dynasty_names = $thuringian$
+	}
+        old_saxon = {
+		primary = SAX
+		dynasty_names = $old_saxon$
+	}
+        alastian = {
+		primary = ALS
+		dynasty_names = $alastian$
+	}
+        warnic = {
+		primary = GER
+		dynasty_names = $warnic$
+	}
+        anglo = {
+		primary = NOL
+		dynasty_names = $anglo$
+	}
+        alamannian = {
+		primary = ULM
+		dynasty_names = $alamannian$
+	}
+        berber_germanic = {
+		primary = MOR
+		dynasty_names = $berber_germanic$
+	}
+        crimean_gothic = {
+		primary = CRI
+		dynasty_names = $berber_germanic$
+	}
+        heruli = {
+		primary = CRI
+		dynasty_names = $heruli$
+	}
+        vandalic = {
+		primary = TUN
+		dynasty_names = $vandalic$
+	}
+        visigothic = {
+		primary = ITA
+		dynasty_names = $visigothic$
+	}
+        ostrogothic = {
+		primary = SPA
+		dynasty_names = $ostrogothic$
+	}
+        old_bavarian = {
+		primary = BAV
+		dynasty_names = $old_bavarian$
+	}
+        gothic = {
+		primary = SWE
+		dynasty_names = $gothic$
+	}
+        gepid = {
+		primary = HUN
+		dynasty_names = $gepid$
+	}
+        swabian = {
+		primary = SWI
+		dynasty_names = $swabian$
+	}
+        old_frankish = {
+		primary = FRA
+		dynasty_names = $old_frankish$
+	}
+        frisian = {
+		primary = FIR
+		dynasty_names = $frisian$
+	}
+        old_frisian = {
+		primary = FIR
+		dynasty_names = $old_frisian$
+	}
+
+}

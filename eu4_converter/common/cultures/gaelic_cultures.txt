@@ -1,0 +1,38 @@
+gaelic	= {
+	east_gallic = {
+		primary = FRA
+		dynasty_names = $east_gallic$
+	}
+	manx = {
+		primary = SCO
+		dynasty_names = $manx$
+	}
+	cornish = {
+		primary = CRN
+		dynasty_names = $cornish$
+	}
+	briton = {
+		primary = WLS
+		dynasty_names = $briton$
+	}
+	armorican = {
+		primary = BRI
+		dynasty_names = $armorican$
+	}
+	pictish = {
+		primary = SCO
+		dynasty_names = $pictish$
+	}
+	galatian = {
+		primary = WLS
+		dynasty_names = $galatian$
+	}
+	cantabrian = {
+		primary = CAS
+		dynasty_names = $cantabrian$
+	}
+	cumbric = {
+		primary = SCO
+		dynasty_names = $cumbric$
+	}
+}

@@ -1,0 +1,286 @@
+# CK2CULTURE;EU4CULTURE;Custom Defined;Comment
+
+# North Germanic
+
+norse;norse;1;Norse
+swedes;swedes;1;Swedes
+swedish;swedish;0;Swedish
+norwegian;norwegian;0;Norwegian
+danish;danish;0;Danish
+dani;dani;1;Dani
+dane;dane;1;Dane
+rygir;rygir;1;Rygir
+swede;swede;1;Sviar
+geatish;geatish;1;Geatish
+jute;jute;1;Jute
+
+# Central Germanic
+
+german;german;1;German
+yiddish;yiddish;1;Yiddish
+thuringian;thuringian;1;Thuringian
+old_saxon;old_saxon;1;Old Saxon
+bavarian;bavarian;0;Bavarian
+lombard;lombard;0;Lombard
+alastian;alastian;1;Asatian
+low_german;saxon;0;Low German
+warnic;warnic;1;Warnic
+anglo;anglo;1;Anglo
+alamannian;alamannian;1;Alamannian
+burgundian;burgundian;0;Burgundian
+berber_germanic;berber_germanic;1;Friseur
+
+# East Germanic
+
+crimean_gothic;crimean_gothic;1;Crimean Gothic
+heruli;heruli;1;Heruli
+vandalic;vandalic;1;Vandalic
+visigothic;visigothic;1;Visigothic
+ostrogothic;ostrogothic;1;Ostrogothic
+old_bavarian;old_bavarian;1;Old Bavarian
+gothic;gothic;1;Gothic
+gepid;gepid;1;Gepid
+
+# West Germanic
+
+english;english;0;English
+saxon;anglo_saxon;1;Anglo-Saxon
+dutch;dutch;0;Dutch
+swabian;swabian;1;Swabian
+franconian;rheinlaender;0;Franconian
+old_frankish;old_frankish;1;Frank
+suebian;suebian;1;Suebian
+brittonic_jute;kentish;1;Kentish
+frisian;frisian;1;Frisian
+anglo_frisian;anglo_frisian;1;Anglo-Frisian
+old_frisian;old_frisian;1;Old Frisian
+
+# Latin
+
+frankish;cosmopolitan_french;0;French
+norman;normand;0;Norman
+italian;italian;1;Italian
+occitan;occitain;0;Occitan
+roman;roman;1;Roman
+thurins;thurins;1;Thurins
+alamanici;alamanici;1;alamanici
+romano_frank;romano_frank;1;Romano-Frank
+african_romance;african_romance;1;African Romance
+sardinian;sardinian;1;Sardinian
+romano_gallic;romano_gallic;1;Romano-Gallic
+arpitanisch;arpitanisch;1;Arpitanisch
+picard;picard;1;Picard
+walloon;wallonian;0;Walloon
+savoyard;savoyard;1;Savoyard
+venetian;venetian;1;Veneziano
+ladin;ladin;1;Ladin
+romano_british;romano_british;1;Romano-British
+romansh;romansh;1;Romansh
+romano_persian;romano_persian;1;Romano-Persian
+sicilian;sicilian;0;Sicilian
+corsican;corsican;1;Corsican
+dalmatian;dalmatian;1;Dalmatian
+maltanesse;maltese;0;Maltanesse
+romano_hispanic;romano_hispanic;1;Romano-Hispanic
+romano_gothic;romano_gothic;1;Romano-Gothic
+
+# Iberian
+
+basque;basque;0;Basque
+castillan;castillian;0;Castillan
+catalan;catalan;0;Catalan
+portuguese;portugese;0;Portuguese
+paleo_iberian;paleo_iberian;1;Iberian
+leonese;galician;0;Leonese
+
+# Byzantine
+
+armenian;armenian;0;Armenian
+greek;greek;0;Greek
+alan;alan;1;Alan
+georgian;georgian;0;Georgian
+aghbanian;aghbanian;1;Aghbanian
+aeolian;aeolian;1;Aeolian
+greek_gothic;greek_gothic;1;Gotthikoelline
+greek_persian;greek_persian;1;Ellinpersika
+isaurian_persian;isaurian_persian;1;Isavropersika
+grecco_axumite;grecco_axumite;1;Grecco-Axumite
+bosporan;bosporan;1;Bosporan;1;Bosporan
+pontic;pontic;1;Pontic
+isaurian;isaurian;1;Isaurian
+spartan;spartan;1;Spartan
+massalian;massalian;1;Massalian
+thracian;thracian;1;Thracian
+colchiscan;colchiscan;1;Colchiscan
+
+# Celtic
+
+irish;irish;0;Irish
+east_gallic;east_gallic;1;East Gallic
+manx;manx;1;Manx
+cornish;cornish;1;Cornish
+briton;briton;1;Briton
+armorican;armorican;1;Armorican
+pictish;pictish;1;Pictish
+scottish;scottish;0;Scottish
+galatian;galatian;1;Galatian
+cantabrian;cantabrian;1;Cantabrian
+welsh;welsh;0;Welsh
+breton;breton;0;Breton
+cumbric;cumbric;1;Cumbric
+
+# Finno-Ugric
+
+finnish;finnish;0;Finnish
+lappish;lappish;1;Lappish
+ugricbaltic;estonian;0;Estonian
+komi;komi;1;Komi
+khanty;khanty;1;Khanty
+samoyed;samoyed;1;Samoyed
+mordvin;mordvin;1;Mordvin
+
+# Baltic
+
+lettigallish;latvian;0;Latvian
+lithuanian;lithuanian;0;Lithuanian
+prussian;old_prussian;0;Old Prussian
+
+# Altaic
+
+turkish;turkish;0;Turkish
+pecheneg;pecheneg;1;Pecheneg
+cuman;cuman;1;Cuman
+khazar;khazar;1;Khazar
+bolghar;bolghar;1;Bolghar
+avar;avar;1;Avar
+karluk;karluk;1;Karluk
+kirghiz;kirgiz;0;Kirghiz
+mongol;mongol;0;Mongol
+hunnic;hunnic;1;Hunnic
+
+# Arabic
+
+bedouin_arabic;bedouin_arabic;0;Bedouin Arabic
+bedouin_dravidian;bedouin_dravidian;1;Gheyr-alatesalat
+azeri;azeri;1;Azeri
+tribal_arab;tribal_arab;1;Tribal Arabic
+maghreb_arabic;berber;0;Berber
+levantine_arabic;al_suryah_arabic;0;Levantine
+himyarite;himyarite;1;Himyarite
+nabatean;nabatean;1;Nabatean
+aramean;aramean;1;Aramean
+samosatan;samosatan;1;Samosatan
+egyptian_arabic;al_misr_arabic;0;Egyptian
+andalusian_arabic;andalucian;0;Andalusian Arabic
+
+# East Slavic
+
+russian;russian;0;Russian
+old_slavic;old_slavic;1;Old Slavic
+venedi;venedi;1;Venedi
+
+# West Slavic
+
+pommeranian;pommeranian;0;Pommeranian
+geruly;geruly;1;Geruly
+tyuringii;tyuringii;1;Tyuringii
+bohemian;czech;0;Bohemian
+polish;polish;0;Polish
+nordvind;nordvind;1;Nordvind
+
+# South Slavic
+
+croatian;croatian;0;Croatian
+antae;antae;1;Antae
+sklav;sklav;1;Sklav
+tracki;tracki;1;Tracki
+arberian;arberian;1;Arberian
+bosnjani;bosnjani;1;Bosnjani
+karantanci;karantanci;1;Karantanci
+serbian;serbian;0;Serbian
+romanian;romanian;0;Romanian
+bulgarian;bulgarian;0;Bulgarian
+alzzecio;alzzecio;1;Alzzecio
+
+# Magyar
+
+hungarian;hungarian;0;Hungarian
+old_magyar;old_magyar;1;Magyar
+tocharian;tocharian;1;Tocharian
+sogdian;sogdian;1;Sogdian
+hunas;hunas;1;Hunas
+hepthalite;hepthalite;1;Hepthalite
+
+# Iranian
+
+persian;persian;0;Persian
+sarmatian;sarmatian;1;Sarmatian
+khwarezmian;khwarezmian;1;Khwarezmian
+iazyges;iazyges;1;Iazyges
+bactrian;bactrian;1;Bactrian
+kurdish;kurdish;1;Kurdish
+afghan;east_persian;0;Afghan
+baloch;baluchi;0;Baloch
+
+#Central African
+
+berber;berber;0;Berber
+tuareg;tuareg;0;Tuareg
+garamantian;garamantian;1;Garamantian
+
+# East African
+
+ethiopian;ethiopian;0;Ethiopian
+nubian;nubian;0;Nubian
+coptic;coptic;1;Coptic
+afar;afar;1;Afar
+
+# West African
+
+manden;mali;0;Manden
+akan;akan;1;Akan
+
+# Mesoamerican
+
+nahuatl;aztek;0;Aztec
+
+#Israelite
+
+ashkenazi;ashkenazi;1;ashkenazi
+sephardi;sephardi;1;sephardi
+hebrew;hebrew;1;Heberew
+
+#Siberian
+yeniseian;siberian;0;Yeniseian
+
+# Aryan Indian
+
+bengali;bengali;0;Bengali
+oriya;oriya;0;Oriya
+assamese;assamese;0;Assamese
+hindustani;avadhi;0;Avadhi
+gujurati;gujarati;0;Gujurati
+panjabi;panjabi;0;Panjabi
+sanskrit;sanskrit;1;Sanskrit
+rajput;rajput;0;Rajput
+sindhi;sindhi;0;Sindhi
+marathi;marathi;0;Marathi
+sinhala;sinhala;0;Sinhala
+
+
+# Dravidian Indian
+
+tamil;tamil;0;Tamil
+telugu;telegu;0;Telugu
+kannada;kannada;0;Kannada
+
+# Proto-Carpathian
+
+macedonian;macedonian;1;Macedonian
+dacian;dacian;1;Dacian
+illyrian;illyrian;1;Illyrian
+veneti;veneti;1;Veneti
+
+#East Celtic
+
+east_welsh;east_welsh;1;East Welsh

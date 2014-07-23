@@ -1,0 +1,62 @@
+latin = {
+	italian = {
+		primary = ITA
+		dynasty_names = $italian$
+	}
+	roman = {
+		primary = ITA
+		dynasty_names = $roman$
+	}
+	thurins = {
+		primary = ITA
+		dynasty_names = $thurins$
+	}
+	alamanici = {
+		primary = ITA
+		dynasty_names = $alamanici$
+	}
+	african_romance = {
+		primary = ALG
+		dynasty_names = $african_romance$
+	}
+	sardinian = {
+		primary = SAR
+		dynasty_names = $sardinian$
+	}
+	romano_gallic = {
+		primary = FRA
+		dynasty_names = $romano_gallic$
+	}
+	venetian = {
+		primary = VEN
+		dynasty_names = $venetian$
+	}
+	ladin = {
+		primary = TIR
+		dynasty_names = $ladin$
+	}
+	romano_british = {
+		primary = WLS
+		dynasty_names = $romano_british$
+	}
+	romansh = {
+		primary = SWI
+		dynasty_names = $romansh$
+	}
+	romano_persian = {
+		primary = PER
+		dynasty_names = $romano_persian$
+	}
+	dalmatian = {
+		primary = CRO
+		dynasty_names = $dalmatian$
+	}
+	romano_hispanic = {
+		primary = SPA
+		dynasty_names = $romano_hispanic$
+	}
+	romano_gothic = {
+		primary = ITA
+		dynasty_names = $romano_gothic$
+	}
+}

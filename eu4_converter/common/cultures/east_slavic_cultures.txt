@@ -1,0 +1,10 @@
+east_slavic = {
+	old_slavic = {
+		primary = RUS
+		dynasty_names = $old_slavic$
+	}
+	venedi = {
+		primary = POL
+		dynasty_names = $venedi$
+	}
+}

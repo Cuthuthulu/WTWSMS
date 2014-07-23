@@ -1,0 +1,6 @@
+dravidian = {
+	sanskrit = {
+		primary = VND
+		dynasty_names = $sanskrit$
+	}
+}

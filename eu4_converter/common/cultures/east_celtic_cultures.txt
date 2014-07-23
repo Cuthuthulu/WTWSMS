@@ -1,0 +1,6 @@
+east_celtic = {
+	east_welsh = {
+		primary = UKR
+		dynasty_names = $east_welsh$
+	}
+}

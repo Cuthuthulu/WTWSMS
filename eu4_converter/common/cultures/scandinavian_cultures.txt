@@ -1,0 +1,34 @@
+scandinavian = {
+	norse = {
+		primary = DAN
+		dynasty_names = $norse$
+	}
+	swedes = {
+		primary = SWE
+		dynasty_names = $swedes$
+	}
+	dani = {
+		primary = DAN
+		dynasty_names = $dani$
+	}
+	dane = {
+		primary = DAN
+		dynasty_names = $dane$
+	}
+	rygir = {
+		primary = HAB
+		dynasty_names = $rygir$
+	}
+	swede = {
+		primary = SWE
+		dynasty_names = $swede$
+	}
+	geatish = {
+		primary = SWE
+		dynasty_names = $geatish$
+	}
+	jute = {
+		primary = DAN
+		dynasty_names = $jute$
+	}
+}

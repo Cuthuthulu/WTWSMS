@@ -1,0 +1,58 @@
+byzantine = {
+	alan = {
+		primary = GEO
+		dynasty_names = $alan$
+	}
+	aghbanian = {
+		primary = GEO
+		dynasty_names = $aghbanian$
+	}
+	aeolian = {
+		primary = CRO
+		dynasty_names = $aeolian$
+	}
+	greek_gothic = {
+		primary = GRE
+		dynasty_names = $greek_gothic$
+	}
+	greek_persian = {
+		primary = PER
+		dynasty_names = $greek_persian$
+	}
+	isaurian_persian = {
+		primary = PER
+		dynasty_names = $isaurian_persian$
+	}
+	grecco_axumite = {
+		primary = ETH
+		dynasty_names = $grecco_axumite$
+	}
+	bosporan = {
+		primary = CRI
+		dynasty_names = $bosporan$
+	}
+	pontic = {
+		primary = BYZ
+		dynasty_names = $pontic$
+	}
+	isaurian = {
+		primary = BYZ
+		dynasty_names = $isaurian$
+	}
+	spartan = {
+		primary = GRE
+		dynasty_names = $spartan$
+	}
+	massalian = {
+		primary = PRO
+		dynasty_names = $massalian$
+	}
+	thracian = {
+		primary = BYZ
+		dynasty_names = $thracian$
+	}
+	colchiscan = {
+		primary = GEO
+		dynasty_names = $colchiscan$
+	}
+}

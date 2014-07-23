@@ -1,0 +1,14 @@
+british = {
+	anglo_saxon = {
+		primary = ENG
+		dynasty_names = $anglo_saxon$
+	}
+	kentish = {
+		primary = ENG
+		dynasty_names = $kentish$
+	}
+	anglo_frisian = {
+		primary = ENG
+		dynasty_names = $anglo_frisian$
+	}
+}

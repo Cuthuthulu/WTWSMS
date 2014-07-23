@@ -1,0 +1,35 @@
+altaic = {
+	cuman = {
+		primary = KAZ
+		dynasty_names = $cuman$
+	}
+	bolghar = {
+		primary = KAZ
+		dynasty_names = $bolghar$
+	}
+	avar = {
+		primary = KAZ
+		dynasty_names = $avar$
+	}
+
+	khazar = {
+		primary = KAZ
+		dynasty_names = $khazar$
+	}
+	karluk = {
+		primary = KAZ
+		dynasty_names = $karluk$
+	}
+	pecheneg = {
+		primary = KAZ
+		dynasty_names = $pecheneg$
+	}
+	khanty = {
+		primary = FIN
+		dynasty_names = $khanty$
+	}
+	hunnic = {
+		primary = KAZ
+		dynasty_names = $hunnic$
+	}
+}
